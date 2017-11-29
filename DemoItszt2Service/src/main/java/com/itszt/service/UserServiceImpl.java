@@ -22,4 +22,8 @@ public class UserServiceImpl implements UserService{
 		System.out.println("添加成功！ "+user);
 		System.out.println("userdao2....");
 	}
+
+	public void showAllUsers() {
+		System.out.println("UserServiceImpl.showAllUsers");
+	}
 }
