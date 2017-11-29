@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Config/Config.iml" filepath="$PROJECT_DIR$/Config/Config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoItszt2.iml" filepath="$PROJECT_DIR$/DemoItszt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoItszt2Controller/DemoItszt2Controller.iml" filepath="$PROJECT_DIR$/DemoItszt2Controller/DemoItszt2Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoItszt2Dao/DemoItszt2Dao.iml" filepath="$PROJECT_DIR$/DemoItszt2Dao/DemoItszt2Dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoItszt2Service/DemoItszt2Service.iml" filepath="$PROJECT_DIR$/DemoItszt2Service/DemoItszt2Service.iml" />
+    </modules>
+  </component>
+</project>

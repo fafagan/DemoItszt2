@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Config" />
+        <module name="DemoItszt2Controller" />
+        <module name="DemoItszt2Dao" />
+        <module name="DemoItszt2Service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Config" target="1.5" />
+      <module name="DemoItszt2" target="1.5" />
+      <module name="DemoItszt2Controller" target="1.5" />
+      <module name="DemoItszt2Dao" target="1.5" />
+      <module name="DemoItszt2Service" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
